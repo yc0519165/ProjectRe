@@ -1,0 +1,22 @@
+.btncontainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.btns{
+  height: 60px;
+  width: 60px;
+  margin: 10px;
+  background: transparent;
+  color: #fff;
+  border-radius: 40px;
+  font-size: 17px;
+  cursor: pointer;
+  border: none;
+  transform: .5s else;
+}
+.btns:hover{
+  box-shadow: 4px 4px 8px rgba(16, 57, 138, 0.5);
+  border: 1px solid black;
+}
+

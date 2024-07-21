@@ -1,0 +1,18 @@
+.screen{
+  width: 336px;
+  padding: 24px;
+  font-size: 40px;
+  background: transparent;
+  border-radius: 16px;
+  color: #fff;
+  font-weight: 500;
+  margin: 10px;
+  text-align: right;
+  cursor: pointer;
+  border: none;
+  box-shadow: 8px 8px 15px rgba(16, 57, 138, 0.5);
+
+}
+.screen::placeholder{
+  color: #fff;
+}
